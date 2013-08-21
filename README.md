@@ -1,6 +1,3 @@
-SemiModalMenuLib
-================
-
 # Why should I use this library ?
 You can use this library to provide to your activities a view which, when it's visible, makes the rest of the activity not available.
 You also can use this library to emphasize a part of your activities.
